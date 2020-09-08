@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.7bceeb26.chunk.js",
-    "main.js.map": "/static/js/main.7bceeb26.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.29ecc951.js",
-    "runtime-main.js.map": "/static/js/runtime-main.29ecc951.js.map",
-    "static/css/2.316749da.chunk.css": "/static/css/2.316749da.chunk.css",
-    "static/js/2.5058686b.chunk.js": "/static/js/2.5058686b.chunk.js",
-    "static/js/2.5058686b.chunk.js.map": "/static/js/2.5058686b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.35b74092a29409ebae722dd58308f871.js": "/precache-manifest.35b74092a29409ebae722dd58308f871.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.316749da.chunk.css.map": "/static/css/2.316749da.chunk.css.map",
-    "static/js/2.5058686b.chunk.js.LICENSE.txt": "/static/js/2.5058686b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+    "main.js": "/pared-2-exp/static/js/main.eadb58f0.chunk.js",
+    "main.js.map": "/pared-2-exp/static/js/main.eadb58f0.chunk.js.map",
+    "runtime-main.js": "/pared-2-exp/static/js/runtime-main.e8aaf714.js",
+    "runtime-main.js.map": "/pared-2-exp/static/js/runtime-main.e8aaf714.js.map",
+    "static/css/2.07dca5be.chunk.css": "/pared-2-exp/static/css/2.07dca5be.chunk.css",
+    "static/js/2.41a97a98.chunk.js": "/pared-2-exp/static/js/2.41a97a98.chunk.js",
+    "static/js/2.41a97a98.chunk.js.map": "/pared-2-exp/static/js/2.41a97a98.chunk.js.map",
+    "index.html": "/pared-2-exp/index.html",
+    "precache-manifest.b5d132f87e9c5ba1ec04218d7c66c7da.js": "/pared-2-exp/precache-manifest.b5d132f87e9c5ba1ec04218d7c66c7da.js",
+    "service-worker.js": "/pared-2-exp/service-worker.js",
+    "static/css/2.07dca5be.chunk.css.map": "/pared-2-exp/static/css/2.07dca5be.chunk.css.map",
+    "static/js/2.41a97a98.chunk.js.LICENSE.txt": "/pared-2-exp/static/js/2.41a97a98.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pared-2-exp/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.29ecc951.js",
-    "static/css/2.316749da.chunk.css",
-    "static/js/2.5058686b.chunk.js",
-    "static/js/main.7bceeb26.chunk.js"
+    "static/js/runtime-main.e8aaf714.js",
+    "static/css/2.07dca5be.chunk.css",
+    "static/js/2.41a97a98.chunk.js",
+    "static/js/main.eadb58f0.chunk.js"
   ]
 }
